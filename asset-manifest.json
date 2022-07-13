@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dylantsouy/web-pos/static/css/main.d5799718.css",
+    "main.js": "/dylantsouy/web-pos/static/js/main.179144e5.js",
+    "static/js/787.73740316.chunk.js": "/dylantsouy/web-pos/static/js/787.73740316.chunk.js",
+    "service-worker.js": "/dylantsouy/web-pos/service-worker.js",
+    "static/media/logo.png": "/dylantsouy/web-pos/static/media/logo.5bfaeaa135ec9fd18902.png",
+    "index.html": "/dylantsouy/web-pos/index.html",
+    "static/media/member.svg": "/dylantsouy/web-pos/static/media/member.d2a519b84e3f40c68b61df0c6db7e423.svg",
+    "static/media/cart.svg": "/dylantsouy/web-pos/static/media/cart.1d601c49068a145cb2e80f4a6256ec19.svg",
+    "static/media/dot.svg": "/dylantsouy/web-pos/static/media/dot.5ddd07dcd650ef00caf1ab4c8dde9dd6.svg",
+    "static/media/love.svg": "/dylantsouy/web-pos/static/media/love.afdfb8a1c40ca5c45ed9285254831d83.svg",
+    "main.d5799718.css.map": "/dylantsouy/web-pos/static/css/main.d5799718.css.map",
+    "main.179144e5.js.map": "/dylantsouy/web-pos/static/js/main.179144e5.js.map",
+    "787.73740316.chunk.js.map": "/dylantsouy/web-pos/static/js/787.73740316.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5799718.css",
+    "static/js/main.179144e5.js"
+  ]
+}
