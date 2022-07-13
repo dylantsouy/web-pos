@@ -1,7 +1,7 @@
 {
   "name": "web-pos",
   "version": "0.1.0",
-  "homepage": "https://github.com/dylantsouy/web-pos",
+  "homepage": "https://dylantsouy.github.io/web-pos",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
