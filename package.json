@@ -1,7 +1,6 @@
 {
   "name": "web-pos",
   "version": "0.1.0",
-  "homepage": "https://dylantsouy.github.io/web-pos",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
@@ -10,8 +9,6 @@
     "build-dev": "dotenv -e .env.develop react-scripts build",
     "build-staging": "dotenv -e .env.staging react-scripts build",
     "build-prod": "dotenv -e .env.production react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "stop": "pkill -9 node",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -24,7 +21,6 @@
     "antd": "^4.21.5",
     "axios": "^0.27.2",
     "dayjs": "^1.11.3",
-    "gh-pages": "^4.0.0",
     "lint-staged": "^13.0.3",
     "localforage": "^1.10.0",
     "prop-types": "^15.8.1",
