@@ -1,6 +1,7 @@
 {
   "name": "web-pos",
   "version": "0.1.0",
+  "homepage": "https://github.com/dylantsouy/web-pos",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
@@ -9,6 +10,7 @@
     "build-dev": "dotenv -e .env.develop react-scripts build",
     "build-staging": "dotenv -e .env.staging react-scripts build",
     "build-prod": "dotenv -e .env.production react-scripts build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "stop": "pkill -9 node",
     "test": "react-scripts test",
